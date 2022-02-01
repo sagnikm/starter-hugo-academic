@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lecturer in Algorithms
+    company: University of Sheffield
+    company_url: ''
+    company_logo: uos-logo
+    location: United Kingdom
+    date_start: '2022-01-17'
+    date_end: ''
+
   - title: Post-doctoral researcher
     company: University of Copenhagen
     company_url: ''
     company_logo: ku-logo
     location: Denmark
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: 'Research theme: Graph algorithms, Models of computations, e.g., distributed, streaming, query, communication, etc.'
         
   - title: Post-doctoral researcher
