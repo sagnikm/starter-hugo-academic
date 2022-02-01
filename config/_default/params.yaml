@@ -20,17 +20,17 @@ twitter: 'schwagznikst'
 
 # Contact (edit or remove options as required)
 
-email: schwagznikst [at] gmail [dot] com
+email: s [dot] mukhopadhyay [at] sheffield [dot] ac [dot] uk (no space)
 phone: ''
 address:
-  street: Universitetsparken 1
-  city: Copenhagen
-  postcode: '2100'
-  country: Denmark
-  country_code: DK
+  street: 211 Portobello
+  city: Sheffield
+  postcode: 'S11 8BR'
+  country: United Kingdom
+  country_code: UK
 coordinates:
-  latitude: '55.70207268427453'
-  longitude: '12.561137557894309'
+  latitude: '53.381014576627365' 
+  longitude: '-1.480684229510739'
 directions: 
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
